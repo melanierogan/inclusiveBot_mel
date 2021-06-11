@@ -1,0 +1,23 @@
+{
+  "name": "inclusivebot_mel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanierogan/inclusiveBot_mel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melanierogan/inclusiveBot_mel/issues"
+  },
+  "homepage": "https://github.com/melanierogan/inclusiveBot_mel#readme",
+  "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@actions/github": "^5.0.0"
+  }
+}
